@@ -43,6 +43,9 @@ def help(id):
 
 자매품>
 @apart_bot : 아파트 매매 봇
+@officetel_bot : 연립/다세대 매매 봇
+@house_meme_bot : 단독/다가구 매매 봇
+@aptrent_bot : 아파트 전월세 봇
 ''')
 
 def howmuch(loc_param, date_param, filter_param):
