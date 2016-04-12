@@ -42,7 +42,7 @@ def help(id):
 /noti remove 아이디 : 노티 제거.
 
 자매품>
-@apart_bot : 아파트 매매 봇
+@apart_bot : 아파트 매매
 ''')
 
 def howmuch(loc_param, date_param, filter_param):
